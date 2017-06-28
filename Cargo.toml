@@ -1,0 +1,6 @@
+[package]
+name = "handwriting-rec-rust"
+version = "0.1.0"
+authors = ["koki natsume <natsume.pcuse75@gmail.com>"]
+
+[dependencies]
