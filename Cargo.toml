@@ -4,3 +4,6 @@ version = "0.1.0"
 authors = ["koki natsume <natsume.pcuse75@gmail.com>"]
 
 [dependencies]
+serde-pickle = "0.4.0"
+serde = "1.0.8":w
+
