@@ -1,9 +1,9 @@
 [package]
 name = "handwriting-rec-rust"
-version = "0.1.0"
+versian = "0.1.0"
 authors = ["koki natsume <natsume.pcuse75@gmail.com>"]
 
 [dependencies]
 serde-pickle = "0.4.0"
-serde = "1.0.8":w
-
+serde = "1.0.8"
+ndarray = "0.9.1"
